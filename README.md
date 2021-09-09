@@ -1,11 +1,11 @@
-# Explore - Is taxation theft?
-A simulated conversation about taxation.
-Visit www.exploreistaxationtheft.com to use it.
+# Explore - Is taxation gay?
+A stimulated conversation about taxation.
+Visit taxationis.gay to use it.
 
 Uses [ink](https://github.com/inkle/ink) and [inkjs](https://github.com/y-lohse/inkjs).
 
 Pull requests welcome!
 
-Quickstart for editing: Use inky https://www.github.com/inkle/inky/releases/latest to edit taxationistheftbot.ink. Compile your edits to replace taxationistheftbot.js
+Quickstart for editing: Use inky https://www.github.com/inkle/inky/releases/latest to edit taxationisgaybot.ink. Compile your edits to replace taxationisgaybot.js
 
-[License](https://github.com/bitbutter/ExploreIsTaxationTheft/blob/master/LICENSE.txt)
+[License](https://github.com/bitbutter/ExploreIsTaxationgay/blob/master/LICENSE.txt)

@@ -216,7 +216,7 @@ function scrollDown() {
 	            // Set external links to target _blank
 	            var links = document.links;
 				for (var i = 0, linksLength = links.length; i < linksLength; i++) {
-				   if (links[i].href != 'http://exploreistaxationtheft.com/#') {
+				   if (links[i].href != 'http://exploreistaxationgay.com/#') {
 				       links[i].target = '_blank';
 				       links[i].className = 'externalLink';
 				   } 
@@ -329,7 +329,7 @@ function CreateObjectionAnchor(delay){
 		// hide choice anchor
 		$(choiceAnchorEl).addClass("hidden");
 		// create form
-		$(".container").first().append('<form class="contact-form show" action="//formspree.io/info@redshiftmedia.com" method="post"><textarea name="Message" cols="30" rows="10" placeholder="Let me know the response you\'d have chosen if it were available. Please be civil." required></textarea><input type="email" name="Email" placeholder="Your email address" required><!-- CONFIG --><input class="is-hidden" type="text" name="_gotcha"><input type="hidden" name="_subject" value="exploreistaxationtheft feedback: '+lastLabelClicked+'"><!-- /CONFIG --><input class="submit" type="submit" value="Send"><br/><a href=\'#\' onclick="RemoveContactForms(event)">Cancel</a></form>');
+		$(".container").first().append('<form class="contact-form show" action="//formspree.io/info@redshiftmedia.com" method="post"><textarea name="Message" cols="30" rows="10" placeholder="Let me know the response you\'d have chosen if it were available. Please be civil." required></textarea><input type="email" name="Email" placeholder="Your email address" required><!-- CONFIG --><input class="is-hidden" type="text" name="_gotcha"><input type="hidden" name="_subject" value="exploreistaxationgay feedback: '+lastLabelClicked+'"><!-- /CONFIG --><input class="submit" type="submit" value="Send"><br/><a href=\'#\' onclick="RemoveContactForms(event)">Cancel</a></form>');
 		PrepareNewForms();
 		event.preventDefault();
 	});

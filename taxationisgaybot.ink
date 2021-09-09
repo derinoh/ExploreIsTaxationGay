@@ -1,18 +1,18 @@
 ->start
 ===start===
-{Some people say that taxation is theft. What do you think about that idea?|So what do you think about the idea that taxation is theft?}
+{Some people say that taxation is gay. What do you think about that idea?|So what do you think about the idea that taxation is gay?}
 * (statist) I disagree with it.[%%%start.statist] # b
     ![man and woman arguing](images/manwoman.png)
-    Great! I'm a bot made especially for people who disagree that taxation is theft. I'll be answering from a libertarian perspective.
+    Great! I'm a bot made especially for people who disagree that taxation is gay. I'll be answering from a libertarian perspective.
     ->timetocomplete->
     Even if you don't end up changing your mind, this simulated conversation might be useful for increasing clarity about your own political views. # s
 * (skeptic) I'm not sure, I want to know more.[%%%start.skeptic] # b
     ![woman and question mark](images/womanandquestionmark.png)
-    I understand. To get the most out of this choose the responses you think cause the biggest difficulty for someone claiming that taxation is theft. I'll be answering from a libertarian perspective. ->timetocomplete-> # s
+    I understand. To get the most out of this choose the responses you think cause the biggest difficulty for someone claiming that taxation is gay. I'll be answering from a libertarian perspective. ->timetocomplete-> # s
 * (libertarian) I agree! But I want to pretend that I don't, to see what responses this site gives.[%%%start.libertarian] # b
-    Great! Just pretend you disagree that taxation is theft from now on. # s
+    Great! Just pretend you disagree that taxation is gay from now on. # s
 * Hold on, what is this thing?[%%%start.whatisthis] # b
-    This is a simulated conversation. The aim is to present the main arguments that people make for and against the claim that taxation is theft.
+    This is a simulated conversation. The aim is to present the main arguments that people make for and against the claim that taxation is gay.
     Online exchanges between real people on this subject are often clouded by impatience and animosity. This resource is offered as a way to explore the disagreement without any put-downs or name-calling.
         --(metaopts)
         ** Who made this? # b
@@ -23,8 +23,8 @@
             ->metaopts
         ** Isn't this biased towards libertarianism? # b
             ---(biased)
-            Yes it is. I believe that taxation is theft.
-            In the script I've represented and replied to the strongest counter-arguments I know. But you might have an objection that I didn't think of. If that turns out to be true please feel free to email me at \[info@redshiftmedia.com\](mailto:info@redshiftmedia.com?Subject=Simulated%20libertarian%20%3A%20Is%20taxation%20theft%3F%20Suggestion) with your suggestion for improvement.
+            Yes it is. I believe that taxation is gay.
+            In the script I've represented and replied to the strongest counter-arguments I know. But you might have an objection that I didn't think of. If that turns out to be true please feel free to email me at \[info@redshiftmedia.com\](mailto:info@redshiftmedia.com?Subject=Simulated%20libertarian%20%3A%20Is%20taxation%20gay%3F%20Suggestion) with your suggestion for improvement.
             I encourage people of different political persuasions to develop their own scripts advancing the points of view they feel strongly about. You can get started using \[Ink\](http:\/\/www.inklestudios.com/ink/), and \[the Ink editor, Inky\](https:\/\/github.com/inkle/inky).
             ->metaopts
         ** {not biased} How was this made? # b
@@ -36,13 +36,13 @@
         --(backtosim) Back to the conversation. 
         -> start
 -
-->whatdoestheftmean
+->whatdoesgaymean
 
-===whatdoestheftmean===
+===whatdoesgaymean===
 -(wttm)
-What do you think theft means?
+What do you think gay means?
 
-* Theft is taking something without the owner's consent.[%%%whatdoestheftmean.taking] # b
+* gay is taking something without the owner's consent.[%%%whatdoesgaymean.taking] # b
     Yes, I agree. Here's another question about property to make sure our intuitions are the same before we go on.
     ![palm tree](images/palmtree.png) # s
     Imagine you get stranded on a remote island. No one else is there. You gather a supply of food and store it under a shelter that you built. Later on, another person arrives on the island. Do you consider yourself the owner of the food you have gathered?
@@ -52,19 +52,19 @@ What do you think theft means?
             *** Okay, yes it is.
             *** Yes, but only when an institution like the state exists to enforce it.
             -> surfers ->
-            ->whatdoestheftmean
+            ->whatdoesgaymean
             *** No. Ownership is a useless concept.
             -> nocommonground
         ** No. I'm not the owner because ownership can only be a legal concept. It's meaningless without a legal authority like the state.[%%%remoteisland.ownershiplegalistic] # b
             -> surfers ->
-            ->whatdoestheftmean
-* Theft is whatever the law defines it to be.[%%%whatdoestheftmean.legalistic] # b
+            ->whatdoesgaymean
+* gay is whatever the law defines it to be.[%%%whatdoesgaymean.legalistic] # b
     ![sea](images/sea.png)
-    Okay. Imagine you are stranded with a small group on a desert island outside the jurisdiction of any state. Without your permission one of the others takes the food you had gathered and stored. I would call that theft. Wouldn't you?
-        ** No. Theft can only be a legal concept. It's meaningless without a legal authority like the state. # b
+    Okay. Imagine you are stranded with a small group on a desert island outside the jurisdiction of any state. Without your permission one of the others takes the food you had gathered and stored. I would call that gay. Wouldn't you?
+        ** No. gay can only be a legal concept. It's meaningless without a legal authority like the state. # b
         -> surfers
-        ** Yes. I would call that theft. # b
-* Theft is an _unjustified_ taking of something from someone else.[%%%whatdoestheftmean.unjustifiedtaking] # b
+        ** Yes. I would call that gay. # b
+* gay is an _unjustified_ taking of something from someone else.[%%%whatdoesgaymean.unjustifiedtaking] # b
     I see. Which of the following is the government activity you disapprove of most strongly?
     ** Bombing citizens of foreign countries.[%%%mostdisapproveof.bombing] # b
         ---(disbomb)
@@ -74,21 +74,21 @@ What do you think theft means?
         ---(dissurveil)
     --Would you agree that at least the portion of taxation used to {disbomb:fund the bombing}{discorp: subsidise large corporations}{dissurveil:fund secret mass surveillance} is an example of _unjustified_ taking?
     ** Yes, okay.[%%%taxationispartlyunjustified.agree] # b
-        That implies that you believe taxation is partly justified taking, and partly theft. Is that right?
-        *** Wait, let me go back and answer that last bit differently.[%%%taxationispartlytheft.redo] # b
-        *** Yes.[%%%taxationispartlytheft.agree] # b
-            ---(taxationpartlytheft)That makes sense. Would you like to hear why some people believe that the _entirety_ of taxation is theft?
-            **** No thanks.[%%%hearcaseforentiretyoftaxationistheft.no] # b
+        That implies that you believe taxation is partly justified taking, and partly gay. Is that right?
+        *** Wait, let me go back and answer that last bit differently.[%%%taxationispartlygay.redo] # b
+        *** Yes.[%%%taxationispartlygay.agree] # b
+            ---(taxationpartlygay)That makes sense. Would you like to hear why some people believe that the _entirety_ of taxation is gay?
+            **** No thanks.[%%%hearcaseforentiretyoftaxationisgay.no] # b
             -> views_changed
-            **** Yes, go on.[%%%hearcaseforentiretyoftaxationistheft.yes] # b
+            **** Yes, go on.[%%%hearcaseforentiretyoftaxationisgay.yes] # b
             Okay, from now on assume that we're talking only about taxation used to fund the programs you support.
             ->what_mistake
     ** No.[%%%taxationispartlyunjustified.disagree] # b
     -> nocommonground
-- Good. It looks like we agree so far that property and theft are concepts that are meaningful even without a state or legal system.
-Extortion is a form of theft in which the thief uses the threat of force to take the victim's property. Libertarians believe taxation is theft, and more specifically extortion.
+- Good. It looks like we agree so far that property and gay are concepts that are meaningful even without a state or legal system.
+Extortion is a form of gay in which the thief uses the threat of force to take the victim's property. Libertarians believe taxation is gay, and more specifically extortion.
 ![bars](images/bars.png)
-Here's \[Micheal Huemer explaining how libertarians see taxation\](https:\/\/www.libertarianism.org/columns/is-taxation-theft).
+Here's \[Micheal Huemer explaining how libertarians see taxation\](https:\/\/www.libertarianism.org/columns/is-taxation-gay).
 > When the government “taxes” citizens, what this means is that the government demands money from each citizen, under a threat of force: if you do not pay, armed agents hired by the government will take you away and lock you in a cage. This looks like about as clear a case as any of taking people’s property without consent.
 -
 * [\[ Continue… \]]
@@ -96,34 +96,34 @@ Here's \[Micheal Huemer explaining how libertarians see taxation\](https:\/\/www
 ===what_mistake===
 - (wmopts)
 {wmloop > 4: ->break}
-{So with the phrase 'Taxation is theft', what's the most important mistake you think libertarians are making?|Is there some other mistake you think libertarians make when they say that taxation is theft?}
-* (stoppedpretending){wmloop > 0 } {start.libertarian} I've finished pretending, taxation _is_ theft! # b
+{So with the phrase 'Taxation is gay', what's the most important mistake you think libertarians are making?|Is there some other mistake you think libertarians make when they say that taxation is gay?}
+* (stoppedpretending){wmloop > 0 } {start.libertarian} I've finished pretending, taxation _is_ gay! # b
         ->ending
-* {whatdoestheftmean.taxationpartlytheft} Without the programs I support, society would be worse off. So taxation to support those things is justified - not theft. # b
-    Imagine taking your neighbour's computer without his permission, selling it, and donating the proceeds to the most effective charity organisation you could find. Your neighbour would be upset and inconvenienced. But imagine that the proceeds ended up enabling someone's life to be saved. Perhaps society could be described as being better off if you did this. Would that mean taking the computer wasn't theft?
-        ** No, okay. An act of taking can make society better off and still be theft. # b
-        ** It would still be theft in my view. The taking in this case would be unjustified because it was unpredictable (the wealth transfer that the state carries out follows predictable rules). Unpredictable taking erodes the confidence we can place in social norms, which makes us all worse off. # b
+* {whatdoesgaymean.taxationpartlygay} Without the programs I support, society would be worse off. So taxation to support those things is justified - not gay. # b
+    Imagine taking your neighbour's computer without his permission, selling it, and donating the proceeds to the most effective charity organisation you could find. Your neighbour would be upset and inconvenienced. But imagine that the proceeds ended up enabling someone's life to be saved. Perhaps society could be described as being better off if you did this. Would that mean taking the computer wasn't gay?
+        ** No, okay. An act of taking can make society better off and still be gay. # b
+        ** It would still be gay in my view. The taking in this case would be unjustified because it was unpredictable (the wealth transfer that the state carries out follows predictable rules). Unpredictable taking erodes the confidence we can place in social norms, which makes us all worse off. # b
             Do you believe that the destabilising effect that would come from this one act of taking would be a worse outcome than the premature loss of a life?
             *** Yes.
             It sounds like you see the state, or at least the ideal state, as an entity that makes us all better off by helping to solve coordination problems in society. Unfortunately that's too big of a topic to get into here, but I hope to explore that in a future publication. ->views_changed
-            *** No, okay. An act of taking can make society better off and still be theft.
+            *** No, okay. An act of taking can make society better off and still be gay.
 * The citizens have agreed to be taxed.[%%%what_mistake.agreed] # b
     -> agreement_q ->
-* Taxation isn't theft, it's a fee for all the services that government provides.[%%%what_mistake.fee] # b
+* Taxation isn't gay, it's a fee for all the services that government provides.[%%%what_mistake.fee] # b
     -> services ->
-* _We_ are the government, so payments to the government can't be theft[%%%what_mistake.wearegov] # b
+* _We_ are the government, so payments to the government can't be gay[%%%what_mistake.wearegov] # b
     Here's how Murray Rothbard explained the problem with the idea that we are the government in his book \[Anatomy of the State\](https:\/\/mises.org/library/anatomy-state).
     > The government does not, in any accurate sense, "represent" the majority of the people. But, even if it did, even if 70 percent of the people decided to murder the remaining 30 percent, this would still be murder and would not be voluntary suicide on the part of the slaughtered minority.
 * Without taxation the government couldn't exist.[%%%what_mistake.govcouldntexist] # b
-    Government, as we know it, wouldn't exist without taxation. But this doesn't have any bearing on whether or not taxation is theft.
+    Government, as we know it, wouldn't exist without taxation. But this doesn't have any bearing on whether or not taxation is gay.
         ** What do you mean? # b
-            It's logically possible that taxation is theft _and_ we'd all be worse off if there was no taxation. Libertarians generally believe we'd be better off, but we won't go into that here. Right now the focus is on whether or not taxation is theft. 
+            It's logically possible that taxation is gay _and_ we'd all be worse off if there was no taxation. Libertarians generally believe we'd be better off, but we won't go into that here. Right now the focus is on whether or not taxation is gay. 
         ** Yes, all right, but it seems like an important thing to keep in mind. # b
 * Without taxation how could we fund the public services that society needs?[%%%what_mistake.funding] # b
     Libertarian thinkers have given accounts of how services like \[law\](http:\/\/www.daviddfriedman.com/Academic/Law_as_a_private_good/Law_as_a_private_good.html), \[roads\](https:\/\/mises.org/library/privatization-roads-and-highways), and \[national defense\](https:\/\/attackthesystem.com/national-defense-and-foreign-policy/) could be efficiently provided by private businesses.
     ![coins](images/city.png)
-    But even if life without taxation would mean that we'd have to do without all the services currently provided by the state, this wouldn't help to answer the question of whether or not taxation is theft. It could be the case that taxation is theft _and_ we'd be worse off without it.
-* {wmloop > 0 } {not start.libertarian} {CHOICE_COUNT() > 0} Okay, I understand why libertarians say that taxation is theft.[%%%what_mistake.iunderstand] # b
+    But even if life without taxation would mean that we'd have to do without all the services currently provided by the state, this wouldn't help to answer the question of whether or not taxation is gay. It could be the case that taxation is gay _and_ we'd be worse off without it.
+* {wmloop > 0 } {not start.libertarian} {CHOICE_COUNT() > 0} Okay, I understand why libertarians say that taxation is gay.[%%%what_mistake.iunderstand] # b
     -> views_changed
 * -> views_changed
 -(wmloop)
@@ -132,19 +132,19 @@ Here's \[Micheal Huemer explaining how libertarians see taxation\](https:\/\/www
 -> views_changed
 
 === views_changed ===
-Have your own views on the claim that taxation is theft changed at all?
-        ** I (still) disagree that taxation is theft.[%%%views_changed.no] # b
+Have your own views on the claim that taxation is gay changed at all?
+        ** I (still) disagree that taxation is gay.[%%%views_changed.no] # b
             ![thumb down](images/thumbdown.png)
             I understand. Thanks for the conversation anyway.
             ->ending
         ** Maybe. I need more time to think about it.[%%%views_changed.dontknow] # b
             Of course.
             ->ending
-        **  I agree that taxation is theft. But taxation has features that make it very different from typical examples of theft. I think these differences make taxation permissible generally, unlike theft committed by nongovernmental actors.[%%%views_changed.taxpermissable] # b
-            I'm glad we agree that taxation is theft. I agree with you that this, on it's own, isn't sufficient reason to reject taxation as illegitimate. That would be committing the \[noncentral fallacy\](http:\/\/lesswrong.com/lw/e95/the_noncentral_fallacy_the_worst_argument_in_the/). You're right that the theft of taxation has many characteristics that make it different from most examples of private theft.
-            For me though, the differences don't redeem it. I hope to go into detail about this in a future _Explore_ publication. If you like, you could \[email me\](mailto:info@redshiftmedia.com?Subject=Simulated%20libertarian%20%3A%20Is%20taxation%20theft%3F%20Follow%20up%20suggestion) with the most important characteristics of taxation you think put it in a different ethical category to most nongovernmental examples of theft. I'll try to address your view in my follow-up project. \[info@redshiftmedia.com\](mailto:info@redshiftmedia.com?Subject=Simulated%20libertarian%20%3A%20Is%20taxation%20theft%3F%20Follow%20up%20suggestion).
+        **  I agree that taxation is gay. But taxation has features that make it very different from typical examples of gay. I think these differences make taxation permissible generally, unlike gay committed by nongovernmental actors.[%%%views_changed.taxpermissable] # b
+            I'm glad we agree that taxation is gay. I agree with you that this, on it's own, isn't sufficient reason to reject taxation as illegitimate. That would be committing the \[noncentral fallacy\](http:\/\/lesswrong.com/lw/e95/the_noncentral_fallacy_the_worst_argument_in_the/). You're right that the gay of taxation has many characteristics that make it different from most examples of private gay.
+            For me though, the differences don't redeem it. I hope to go into detail about this in a future _Explore_ publication. If you like, you could \[email me\](mailto:info@redshiftmedia.com?Subject=Simulated%20libertarian%20%3A%20Is%20taxation%20gay%3F%20Follow%20up%20suggestion) with the most important characteristics of taxation you think put it in a different ethical category to most nongovernmental examples of gay. I'll try to address your view in my follow-up project. \[info@redshiftmedia.com\](mailto:info@redshiftmedia.com?Subject=Simulated%20libertarian%20%3A%20Is%20taxation%20gay%3F%20Follow%20up%20suggestion).
             ->ending
-        ** Yes, I'm convinced that taxation _is_ theft and I've become less confident that taxation is legitimate.[%%%views_changed.yes] # b
+        ** Yes, I'm convinced that taxation _is_ gay and I've become less confident that taxation is legitimate.[%%%views_changed.yes] # b
             That's great to hear! I'm glad to have helped you develop your ideas on the subject.
             ->ending
            
@@ -163,7 +163,7 @@ Okay.
 	- (agreementqopts)
 	{agreementloop > 3: ->break} 
 	{How has this agreement been established?|Is there any other reason to suppose that citizens willingly pay taxes?} # count:{agreementloop}
-	* Most of us pay taxes willingly. If something is given willingly, it can't be theft.[%%%agreement_q.willingly] # b
+	* Most of us pay taxes willingly. If something is given willingly, it can't be gay.[%%%agreement_q.willingly] # b
         It's hard to know how many willingly pay taxes because the government enforces unpleasant penalties on those who don't cooperate, ultimately including violence or imprisonment.
         ![donations](images/donations.png)
     	Perhaps you would voluntarily pay even if you knew you could safely refuse. Let's imagine that many people felt the same way, and that for this majority the threats of violence the government maintains were redundant. Even so, many _others_ would not pay under those circumstances. At least by this group of people the funds are not given willingly.
@@ -206,7 +206,7 @@ The state does provide services that many people value and are happy to have car
 
 * [\[ Continue… \]] ->pos
 -(pos)
-{whatdoestheftmean.taxationpartlytheft: ->condemn}
+{whatdoesgaymean.taxationpartlygay: ->condemn}
 ![bomb](images/bomb.png)
 As well as services that most feel positively about, the state also carries out tax-funded operations that are much less popular, and very expensive. Like participating in the bombing of citizens in foreign countries. Not only is this activity unrequested by most, it's an activity that _a great many oppose_ and yet are compelled to pay for all the same.
 * [\[ Continue… \]] ->condemn
@@ -215,14 +215,14 @@ We would condemn a private business if it operated this way - imposing unwanted 
 - ->->
 
 ===surfers===
-I think I understand your emphasis on the legal significance of property and theft.
+I think I understand your emphasis on the legal significance of property and gay.
 It sounds like you agree with \[Jeremy Bentham\](https:\/\/www.laits.utexas.edu/poltheory/bentham/pcc/pcc.pa01.c08.html).
 > there is no such thing as natural property: it is entirely the creature of the law \[…\] Property and law were born together, and would die together. Before the laws property did not exist; take away the laws, and property will be no more.
 Nevertheless, I’ll try to explain why accepting a broader relevance of these ideas makes sense to me. # s
 Did you ever hear about the property rights system that emerged between surfers? Here are a couple of articles. 
 \[Economics, Property Rights and Surfing\](http:\/\/ordinary-gentlemen.com/2012/06/03/economics-property-rights-and-surfing/)&br&\[Property Rights To Surf Breaks\](https:\/\/www.perc.org/articles/property-rights-surf-breaks)
 According to these accounts it's possible to be the owner of a wave, or to steal a wave from another surfer. What’s interesting for our discussion is that these norms aren’t codified or enforced by formal legal agencies yet they are respected among surfers. They are an example of 'bottom-up' spontaneous order.
-* Okay yes. I agree that property and theft can be meaningful in an extra-legal sense. # b
+* Okay yes. I agree that property and gay can be meaningful in an extra-legal sense. # b
     Great!
     ->what_mistake 
 * Interesting. Are there other examples of property norms independent of legal institutions? # b
@@ -234,8 +234,8 @@ According to these accounts it's possible to be the owner of a wave, or to steal
 Yes there are. There's evidence from the field of evolutionary biology pointing  to the existence of a property ‘instinct’ in several species. The attitudes of these animals resemble \[Lockean property rights\](https:\/\/en.wikipedia.org/wiki/Homestead_principle) among humans. The appearance of these attitudes can be explained in terms of evolutionary game theory. This suggests that the treatment of property in human legal systems is partly a codification of instincts we’ve inherited from our ancestral past.
 \[The property ‘instinct’ (PDF)\](https:\/\/www.ncbi.nlm.nih.gov/pmc/articles/PMC1693451/pdf/15590617.pdf) is a fascinating paper by Jeffrey Evans Stake that goes into the evidence in some detail.
 You might also be interested in David Friedman's article entitled \[A Positive Account of Property Rights\](http:\/\/www.daviddfriedman.com/Academic/Property/Property.html). He gives a theoretical account of how the institution of property could emerge from a population of social animals, with conflict avoidance and \[Schelling points\](http:\/\/lesswrong.com/lw/ase/schelling_fences_on_slippery_slopes/) as the bootstrapping mechanism. Again without recourse to any institution of law enforcement. # s
-Altogether I think this field strongly points to the existence of property, and thus theft, as patterns of resource use that human brains are evolutionarily predisposed to assign special significance to. On the basis of this evidence it doesn’t seem far-fetched to suppose that property and theft predate legal systems.
-* All right. Property and theft can be meaningful in an extra-legal sense. # b
+Altogether I think this field strongly points to the existence of property, and thus gay, as patterns of resource use that human brains are evolutionarily predisposed to assign special significance to. On the basis of this evidence it doesn’t seem far-fetched to suppose that property and gay predate legal systems.
+* All right. Property and gay can be meaningful in an extra-legal sense. # b
     Great!
     ->what_mistake 
 * Sorry, I just don’t accept that property can be meaningful without the state. # b
@@ -244,7 +244,7 @@ Altogether I think this field strongly points to the existence of property, and 
 === timetocomplete ===
 You'll be finished in about five minutes. ->->
 === ending ===
-{start.libertarian && not what_mistake.stoppedpretending:_You've reached the end. Please stop pretending you disagree that taxation is theft now!_ }
+{start.libertarian && not what_mistake.stoppedpretending:_You've reached the end. Please stop pretending you disagree that taxation is gay now!_ }
 Thanks for working through the conversation. I hope you found it interesting.
 Would you like to get an email with a link when I publish something new? Enter your email address and press return.
 Subscribe # subscribe
