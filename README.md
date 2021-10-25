@@ -1,6 +1,6 @@
 # Explore - Is taxation gay?
 A stimulated conversation about taxation.
-Visit taxationis.gay to use it.
+Visit [taxationis.gay](https://taxationis.gay) to use it.
 
 Uses [ink](https://github.com/inkle/ink) and [inkjs](https://github.com/y-lohse/inkjs).
 
